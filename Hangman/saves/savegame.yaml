@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+word_to_guess: conducted
+display_word: __n___te_
+approaches: 5
+incorrect_guesses: []
+correct_guesses:
+- e
+- t
+- "n"
